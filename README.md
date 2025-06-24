@@ -42,7 +42,7 @@
 Here are a few things I've worked on or am currently building:
 
 - 🌐 **SPOTIIFY CLONE** – Description of the project, I used HTML, CSS, JavaScript to create this unique clone of Spotify. [Live Site](#) | [Repo](#)
-- 📱 **CHOOSE THE DOOR** – A game whereby the user has to choose between three doors, where 1 has a ghost, the other is empty, and the third has a Ghost. key features. [Live Site](#) | [Repo](#)
+- 📱 **CHOOSE THE DOOR** – A game whereby the user has to choose between three doors, where 1 has a price, the other is empty, and the third has a Ghost. key features. [Live Site](#) | [Repo](#)
 - 🧠 **[ML or Other Concept Project]** – Description, challenges tackled. [Repo](#)
 
 _👉 More on the way!_
