@@ -52,7 +52,7 @@ _👉 More on the way!_
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Davieson101&show_icons=true&theme=radical" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="49%"/>
 </div>
 
@@ -69,12 +69,3 @@ _👉 More on the way!_
 <p align="center">
   <em>"Keep learning, keep building, and share what you learn." 💪</em>
 </p>
-To personalize this, I can help you add your real projects, custom visuals, or even tweak your career goals section—just let me know what you'd like to change or expand! Would you like help with project descriptions, skills visualization, or writing your personal summary?
-
-
-
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
